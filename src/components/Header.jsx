@@ -85,7 +85,7 @@ function Header() {
                   <span className="altyazı">Dünyama hoşgeldin</span>
                   <h1 className="baslik">
                     Merhaba, adım <span>Süleyman Ardıç</span> <br />
-                    <span>ben |</span>
+                    <span className="span">ben |</span>
                     <span className="typewrite ab">{typeEffect}</span>
                   </h1>
                   <p>
